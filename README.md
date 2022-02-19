@@ -19,3 +19,12 @@
 - Sunulan yazılımın lisans modeli LICANCE dosyası ile mutlaka belirtilir.
 - Sunulan yazılım paketini geliştiren ilk programcı, topluluk desteği aldıktan sonra yazılım üzerinde hak iddia etmez. Topluluğa mal olan topluluğundur.
 - Sunulan paket ya da yazılımı kullanan geliştiriciler için en büyük sorumluluk topluluğa teşekkür etmektir.
+
+# Kaynaklar ve Linkler
+
+- [`Medium`] 
+- [`Meetup`] 
+
+
+[`Medium`]: https://medium.com/developer-kitchen
+[`Meetup`]: https://www.meetup.com/tr-TR/developer-kitchen/
