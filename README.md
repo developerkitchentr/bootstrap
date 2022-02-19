@@ -24,7 +24,9 @@
 
 - [`Medium`] 
 - [`Meetup`] 
+- [`Twitter`] 
 
 
 [`Medium`]: https://medium.com/developer-kitchen
 [`Meetup`]: https://www.meetup.com/tr-TR/developer-kitchen/
+[`Twitter`]: https://twitter.com/DevKitchenTr
